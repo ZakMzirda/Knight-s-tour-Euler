@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Morpion", "Morpion\Morpion.csproj", "{33E7DACC-C4D6-40B7-97DE-BD86BE4E3AD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorpionBis", "MorpionBis\MorpionBis.csproj", "{06ED6889-2EBD-4BD1-959A-A42484CECE60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33E7DACC-C4D6-40B7-97DE-BD86BE4E3AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E7DACC-C4D6-40B7-97DE-BD86BE4E3AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E7DACC-C4D6-40B7-97DE-BD86BE4E3AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E7DACC-C4D6-40B7-97DE-BD86BE4E3AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06ED6889-2EBD-4BD1-959A-A42484CECE60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06ED6889-2EBD-4BD1-959A-A42484CECE60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06ED6889-2EBD-4BD1-959A-A42484CECE60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06ED6889-2EBD-4BD1-959A-A42484CECE60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74C6F7F6-B8AD-48E5-AC53-8F120EC502C5}
+	EndGlobalSection
+EndGlobal
