@@ -22,7 +22,7 @@ namespace Cavalier
         Boolean IsStopped;
 
         private int compteur; 
-        /***********variables pour l'algo d'euler**************/
+        /*********** variables pour l'algo d'euler **************/
         static int[,] echec = new int[12, 12];
         static int[] depi = new int[] { 2, 1, -1, -2, -2, -1, 1, 2 };
         static int[] depj = new int[] { 1, 2, 2, 1, -1, -2, -2, -1 };
